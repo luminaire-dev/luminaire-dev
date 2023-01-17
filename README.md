@@ -1,4 +1,5 @@
-![Lumianire](https://i.imgur.com/I3LWqJY.gif)
+![Lumianire](https://i.imgur.com/jMD2Q12.gif)
+
 
 👩🏻‍💻 [Developer](https://luminaire-dev.github.io/resume/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎹 [Musician](https://www.youtube.com/user/NlNTEND0/videos) 
 
