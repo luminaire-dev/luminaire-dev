@@ -1,8 +1,2 @@
 ![Lumianire](https://i.imgur.com/axwX2yw.gif)
-
-<!--
-
-👩🏻‍💻 [Developer](https://luminaire-dev.github.io/resume/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎹 [Musician](https://www.youtube.com/user/NlNTEND0/videos) 
-
-
-**luminaire-dev/luminaire-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [👩🏻‍💻](https://luminaire-dev.github.io/resume/) [🎹](https://www.youtube.com/user/NlNTEND0/videos) 
